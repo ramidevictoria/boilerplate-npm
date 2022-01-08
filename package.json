@@ -1,5 +1,6 @@
 {
 	"author": "ramidevictoria",
+	"description": "Challenge from FreeCodeCamp.org",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
